@@ -1,0 +1,3 @@
+Discriptive-Boosetar-ipynb
+
+This project is based on Descriptive Statistics practical work completed using Jupyter Notebook. In this project, we performed data analysis on a household socioeconomic dataset. We calculated important statistical measures such as mean, median, mode, variance, and standard deviation to understand the data distribution. We also created visualizations to represent the data clearly. Along with the practical implementation in the IPYNB file, a detailed practical report PDF and a separate theory answers PDF were prepared based on the Part A theory questions. The project combines both practical coding and theoretical concepts related to descriptive statistics.
